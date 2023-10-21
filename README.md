@@ -1,2 +1,8 @@
-# thethaNam
-Friendly student random chat app for students to commucate with each other 
+
+OMEGLE LIKE INTERFACE, random person chat app for students to make friends 
+
+
+
+ - npm install
+ - npm run start 
+ - Navigate to ```http://localhost:3000```
